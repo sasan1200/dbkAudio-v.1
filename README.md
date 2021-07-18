@@ -1,3 +1,3 @@
 # dbkAudio-v.1
-Audio Plugin First Build.  C##
+Audio Plugin First Build.  C## && JUCE Framework
 
